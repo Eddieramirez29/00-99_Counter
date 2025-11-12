@@ -73,6 +73,9 @@ Each port drives a **7-segment display** (common cathode configuration).
 
 ---
 
+![Circuito del contador](images/counter_proteus.png)
+
+
 ## 🛠️ Notes
 
 If the prescaler is accidentally assigned to the **Watchdog Timer (WDT)** instead of **Timer0** (`OPTION_REGbits.PSA = 1`),  
