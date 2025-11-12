@@ -73,7 +73,7 @@ Each port drives a **7-segment display** (common cathode configuration).
 
 ---
 
-![Circuito del contador](images/counter_proteus.png)
+![Circuito del contador](./counter_proteus.png)
 
 
 ## 🛠️ Notes
